@@ -1,0 +1,5 @@
+Apart from the dependencies of QTile itself, these programs are useful
+
+lxapperance | Handles overall system theme, so that applications default to dark theme e.g.
+nitrogen    | required for setting a wallpaper with the tiling window manager
+
