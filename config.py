@@ -133,7 +133,7 @@ screens = [
                 widget.Sep(),
                 widget.Clock(format='%a %e %b %Y  -  %H:%M:%S'),
             ],
-            opacity=0.15,
+            opacity=0.85,
             size=30,
         ),
     ),
